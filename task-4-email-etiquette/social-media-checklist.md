@@ -6,8 +6,8 @@ Siddharth Sharma | 25BCE10977 | B.Tech CSE Core | VIT Bhopal University
 
 ## DO's
 
-| # | Do | Why It Matters |
-|---|-----|----------------|
+| # | Do |
+|---|-----|
 | 1 | **Keep your profiles professional.** |
 | 2 | **Think before you post.** |
 | 3 | **Use privacy settings wisely.** |
@@ -19,8 +19,8 @@ Siddharth Sharma | 25BCE10977 | B.Tech CSE Core | VIT Bhopal University
 
 ## DON'Ts
 
-| # | Don't | Why It Matters |
-|---|-------|----------------|
+| # | Don't |
+|---|-------|
 | 1 | **Do not share sensitive personal information (address, phone number, bank details)** |
 | 2 | **Do not click on suspicious links or unknown attachments.** |
 | 3 | **Do not accept friend requests from unknown or suspicious profiles.** |
