@@ -70,6 +70,20 @@ digital-literacy-project/
 
 ---
 
+## 🛠️ Tools & Platforms Used
+
+| Task | Tool / Platform | Link |
+|---|---|---|
+| Infographic | Canva | [canva.com](https://canva.com) |
+| Portfolio | GitHub | [github.com](https://github.com) |
+| Portfolio | LinkedIn | [linkedin.com](https://linkedin.com) |
+| Portfolio | Kaggle | [kaggle.com](https://www.kaggle.com) |
+| Coding Practice | CodeChef | [codechef.com](https://codechef.com) |
+| Quiz | Google Forms | [forms.google.com](https://forms.google.com) |
+| Cybercrime Reporting | Cyber Crime Portal | [cybercrime.gov.in](https://cybercrime.gov.in) |
+
+---
+
 ## 🔗 Important Links
 
 - 📝 **Digital Literacy Awareness Quiz:** [https://forms.gle/PXW2WsqbMRr7TnSSA](https://forms.gle/PXW2WsqbMRr7TnSSA)
