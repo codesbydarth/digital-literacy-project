@@ -95,4 +95,8 @@ digital-literacy-project/
 
 ---
 
+*Built as part of my Digital Literacy journey.  
+Siddharth Sharma
+25BCE10977*
+
 *VIT Bhopal University · CSE0001 Digital Literacy · 2025–26*
